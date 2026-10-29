@@ -1,0 +1,4 @@
+pyspark==3.5.7
+Pillow==11.3.0
+datasets==3.6.0
+huggingface-hub==0.32.4
